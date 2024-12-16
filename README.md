@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="./img/logo.png" alt="Logo">
 
-  <p align="center">Knowledge-based course planner with a visual timetable</p>
+  <p align="center">Rule-based course planner with a visual timetable</p>
 </h1>
 
 ## Table of Contents
