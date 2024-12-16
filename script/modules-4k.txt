@@ -1,0 +1,22 @@
+code,title,MC,exam,faculty,group time,prereqs,preclusion,
+CS4215,Programming Language Implementation,4,2904AM,SOC,TBA,Group1 1 16 18,CS2010 CS2104,-,
+CS4216,Constraint Logic Programming,4,2604EVENING,SOC,TBA,Group1 1 1830 2030,CS3234,-,
+CS4217,Software Development Technologies,4,0505PM,SOC,TBA,Group1 5 10 12,CS3213,-,
+CS4220,Knowledge Discovery Methods in Bioinformatics,4,-,SOC,TBA,Group1 4 14 17,CS2220/LSM2104,-,
+CS4222,Wireless Computing and Sensor Networks,4,2704PM,SOC,TBA,Group1 5 14 17,CS3103,-,
+CS4231,Parallel and Distributed Algorithms,4,3004AM,SOC,TBA,Group1 5 16 19,CS3230/CS3210,-,
+CS4236,Cryptography Theory and Practice,4,3004PM,SOC,TBA,Group1 5 10 12,CS1020 CS3235,-,
+CS4244,Knowledge-Based Systems,4,0305AM,SOC,TBA,Group1 1 1830 2030,CS3243,-,
+CS4247,Graphics Rendering Techniques,4,2804AM,SOC,TBA,Group1 2 11 14,CS3241,-,
+CS4271,Critical Systems and Their Verification,4,2904AM,SOC,TBA,Group1 3 12 15,CS1104/CS2100/EE2006/EE2020 CS1231/MA1100,-,
+CS4340,Digital Special Effects,4,-,SOC,TBA,Group1 2 14 17,CS3343 CS4243/CS4247/CS4342,CS5245,
+CS4343,Game Development Project,8,-,SOC,TBA,Group1 5 9 12,CS4213 CS2103,-,Prefer NM3216
+CS4347,Sound and Music Computing,4,2804PM,SOC,TBA,Group1 4 16 18,CS1020 MA1505/MA1521/MA1102R MA1101R/MA1506,-,
+CS4880,Digital Entrepreneurship,4,-,SOC,TBA,Group1 1 1830 2130,,-,3rd Yr Student
+IS4100,IT Project Management,4,2504PM,SOC,TBA,Group1 4 12 14,CS2250 IS1103/IS1105,CS4254,SWAP AND/OR
+IS4150,Mobile and Ubiquitous Commerce,4,0305AM,SOC,TBA,Group1 2 9 11,IS2150,-,
+IS4203,IT Adoption and Change Management,4,0405AM,SOC,TBA,Group1 3 9 12,CS3253/IS3101,-,
+IS4224,Service Systems,4,3004AM,SOC,TBA,Group1 2 16 18,CS3361/IS3220,CS4361,
+IS4226,IT Outsourcing and Offshoring Management,4,2504EVENING,SOC,TBA,Group1 3 1830 2030,CS2250 IS1103/IS1105,CS4255,SWAP AND/OR
+IS4227,Enterprise Service-Oriented Architecture,4,2604EVENING,SOC,TBA,Group1 4 1830 2030,CS3361/IS3220,CS4258,
+IS4243,Information Systems Consulting,4,-,SOC,TBA,Group1 5 12 14,CS2250 IS1103/IS1105,CS4253,SWAP AND/OR

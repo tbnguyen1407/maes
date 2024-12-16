@@ -1,0 +1,28 @@
+code,title,MC,exam,faculty,venue,group time,prereqs,preclus
+AA0000,Dummy Module,5,2604PM,SOC,TBA,Group1 Mon 9 12/Group2 2 11 13,CS1111 EG2222/EG2000 IT0000/IT1111,LSM1201/CS2100/CS1200
+CG3204L,Computer Networks Laboratory,3,-,SOC,TBA,Group1 5 14 15,EE3204,CS2105/CS3103/CS3103L
+CP3201,Industry Seminar,2,-,SOC,TBA,Group1 4 14 16,-,-
+CS3103,Computer Networks and Protocols,4,0505EVENING,SOC,TBA,Group1 4 10 12,CS2105 EE3204,EE4210
+CS3103L,Computer Networks Laboratory,2,-,SOC,TBA,Group1 5 22 0,-,CG3204L
+CS3211,Parallel and Concurrent Programming,4,1704PM,SOC,TBA,Group1 4 14 16,-,-
+CS3215,Software Engineering Project,8,-,SOC,TBA,Group1 1 12 14,CS2103,-
+CS3217,Software Engineering on Modern Application Platforms,5,-,SOC,TBA,Group1 2 16 17,-,-
+CS3223,Database Systems Implementation,4,2504PM,SOC,TBA,Group1 4 14 16,CS2102/CS2102S,-
+CS3225,Combinatorial Methods in Bioinformatics,4,2704EVENING,SOC,TBA,Group1 4 12 14,CS2220/LSM2104,-
+CS3230,Design and Analysis of Algorithms,4,2604PM,SOC,TBA,Group1 4 10 12,CS1102 CS1231,-
+CS3233,Competitive Programming,4,-,SOC,TBA,Group1 3 18 22,-,-
+CS3235,Introduction to Computer Security,4,2304PM,SOC,TBA,Group1 1 14 16,-,-
+CS3240,Human-Computer Interaction,4,0405PM,SOC,TBA,Group1 3 12 14,-,-
+CS3241,Computer Graphics,4,0605AM,SOC,TBA,Group1 1 10 12,CS1102/CS1102C/CS1102S,-
+CS3243,Introduction to Artificial Intelligence,4,2504AM,SOC,TBA,Group1 1 16 18,CS1102/CS1102C/CS1102S CS1231,-
+CS3245,Information Retrieval,4,2704AM,SOC,TBA,Group1 4 14 16,CS2010,-
+CS3248,Design of Interactive Systems,4,-,SOC,TBA,Group1 4 16 18,CS3249 CS3240,-
+CS3271,Software Engineering for Reactive Systems,4,2604AM,SOC,TBA,Group1 3 14 16,CS2271,-
+CS3343,Digital Media Production,4,-,SOC,TBA,Group1 3 14 16,-,-
+CS3882,Breakthrough Ideas for Digital Markets,4,-,SOC,TBA,Group1 3 9 11,-,-
+IS3101,Management of Information Systems,4,2304PM,SOC,TBA,Group1 5 16 18,-,-
+IS3221,Enterprise Resource Planning Systems,4,2704PM,SOC,TBA,Group1 4 16 18,-,CS3264-
+IS3230,Principles of Information Security,4,2804AM,SOC,TBA,Group1 4 14 16,IS1103/CS1105 CS2105,CS3254-
+IS3240,Economics of E-Business,4,2904PM,SOC,TBA,Group1 5 14 16,EC1101/EC1101E/EC1310/EC1311/BSP1005,CS3265-
+IS3241,Enterprise Social Systems,4,2804EVENING,SOC,TBA,Group1 1 12 14,-,-
+IS3242,Software Quality Management,4,2704EVENING,SOC,TBA,Group1 4 10 12,CS2250/IS1105,-
